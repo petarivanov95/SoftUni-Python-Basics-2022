@@ -9,18 +9,26 @@ Lecturer - [Mario Zahariev](https://www.linkedin.com/in/mario-zahariev-753a7b202
 ![image](https://user-images.githubusercontent.com/68993494/185683680-bcfefe65-88fb-4192-b0b2-ff9130c39487.png)
 
 ## Table of Contents:
-- [First Steps]
+- First Steps
     - [Lab](https://github.com/petarivanov95/SoftUni-Python-Basics-2022/tree/main/03.%20First%20Steps%20-%20Programming%20-%20Lab)
     - [Exercise](https://github.com/petarivanov95/SoftUni-Python-Basics-2022/tree/main/04.%20First%20Steps%20-%20Programming%20-%20Exercise)
 - Conditionals
-- 
+    - [Lab](https://github.com/petarivanov95/SoftUni-Python-Basics-2022/tree/main/05.%20Conditionals%20-%20Lab)
+    - [Exercise](https://github.com/petarivanov95/SoftUni-Python-Basics-2022/tree/main/06.%20Conditionals%20-%20Exercise)
 - More Conditionals
+    - [Lab](https://github.com/petarivanov95/SoftUni-Python-Basics-2022/tree/main/07.%20More%20Conditionals%20-%20Lab)
+    - [Exercise](https://github.com/petarivanov95/SoftUni-Python-Basics-2022/tree/main/08.%20More%20Conditionals%20-%20Exercise)
 - For Loops
+    - [Lab](https://github.com/petarivanov95/SoftUni-Python-Basics-2022/tree/main/09.%20For%20Loops%20-%20Lab)
+    - [Exercise](https://github.com/petarivanov95/SoftUni-Python-Basics-2022/tree/main/10.%20For%20Loops%20-%20Exercise)
 - While Loops
+    - [Lab](https://github.com/petarivanov95/SoftUni-Python-Basics-2022/tree/main/11.%20While%20Loops%20-%20Lab)
+    - [Exercise](https://github.com/petarivanov95/SoftUni-Python-Basics-2022/tree/main/12.%20While%20Loops%20-%20Exercise)
 - Nested Loops
-- Exam Prep
+    - [Lab](https://github.com/petarivanov95/SoftUni-Python-Basics-2022/tree/main/13.%20Nested%20Loops%20-%20Lab)
+    - [Exercise](https://github.com/petarivanov95/SoftUni-Python-Basics-2022/tree/main/14.%20Nested%20Loops%20-%20Exercise)
+- [Exam Prep](https://github.com/petarivanov95/SoftUni-Python-Basics-2022/tree/main/15.%20Exam%20Prep)
 
-- [](https://github.com/zahariev-webbersof/SoftUni-Fundamentals-2022-06/tree/main/basic_syntax_conditional_statements_and_loops)
 
 ## Additional resources
 
