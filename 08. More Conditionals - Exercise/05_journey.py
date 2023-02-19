@@ -1,7 +1,7 @@
 budget = float(input())
 season = input()
 destination = ""
-place=""
+place = ""
 expenses = 0
 if budget <= 100:
     destination = "Bulgaria"

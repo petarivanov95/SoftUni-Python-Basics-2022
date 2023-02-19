@@ -18,6 +18,5 @@ while change > 0:
     elif change == 1:
         change -= 1
     counter += 1
- 
+
 print(counter)
- 

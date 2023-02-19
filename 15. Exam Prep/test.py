@@ -1,8 +1,8 @@
 team = input()
 
-if not 'Argentina':
+if not "Argentina":
     print("Not")
-elif not 'Brazil':
+elif not "Brazil":
     print("Not")
 else:
-    print('Hello')
+    print("Hello")

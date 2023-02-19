@@ -11,6 +11,6 @@ if even_sum == odd_sum:
     print("Yes")
     print(f"Sum = {even_sum}")
 else:
-    diff=abs(even_sum - odd_sum)
+    diff = abs(even_sum - odd_sum)
     print("No")
     print(f"Diff = {diff}")

@@ -10,9 +10,9 @@ elif season == "Summer" or season == "Autumn":
 elif season == "Winter":
     price = 2600
 
-if people <=6:
+if people <= 6:
     price = price * 0.90
-elif  people <= 11:
+elif people <= 11:
     price = price * 0.85
 else:
     price = price * 0.75

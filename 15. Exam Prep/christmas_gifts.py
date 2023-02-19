@@ -5,7 +5,7 @@ adults = 0
 
 while True:
     persons_input = input()
-    if persons_input != 'Christmas':
+    if persons_input != "Christmas":
         persons_age = int(persons_input)
         if int(persons_input) <= 16:
             kids += 1
@@ -15,9 +15,8 @@ while True:
         break
 
 
-
-cost_toys = price_toy*kids
-cost_sweaters = price_sweater*adults
+cost_toys = price_toy * kids
+cost_sweaters = price_sweater * adults
 
 print(f"Number of adults: {adults}")
 print(f"Number of kids: {kids}")

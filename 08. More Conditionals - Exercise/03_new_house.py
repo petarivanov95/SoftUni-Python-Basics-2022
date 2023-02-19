@@ -26,7 +26,9 @@ elif type_flowers == "Gladiolus":
 difference = abs(budget - sum)
 
 if sum <= budget:
-    print(f"Hey, you have a great garden with {count_flower} {type_flowers} and {difference:.2f} leva left.")
+    print(
+        f"Hey, you have a great garden with {count_flower} {type_flowers} and {difference:.2f} leva left."
+    )
 
 else:
     print(f"Not enough money, you need {difference:.2f} leva more.")

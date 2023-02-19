@@ -1,5 +1,5 @@
 print("Hello SoftUni")
-text='Hello'
+text = "Hello"
 print(text)
-text=6
+text = 6
 print(text)

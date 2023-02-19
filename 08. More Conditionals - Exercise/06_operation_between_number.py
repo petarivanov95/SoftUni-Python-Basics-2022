@@ -14,12 +14,12 @@ elif operator == "*":
     result = first_num * second_num
 elif operator == "/":
     if second_num == 0:
-        zero_flag=True
+        zero_flag = True
     else:
         result = first_num / second_num
 elif operator == "%":
     if second_num == 0:
-        zero_flag=True
+        zero_flag = True
     else:
         result = first_num % second_num
 

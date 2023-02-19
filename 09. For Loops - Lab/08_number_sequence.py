@@ -1,9 +1,8 @@
-
 count_of_numbers = int(input())
-current_number=int(input())
+current_number = int(input())
 max_numder = current_number
 min_numder = current_number
-for numbers in range(count_of_numbers-1):
+for numbers in range(count_of_numbers - 1):
     current_number = int(input())
     if current_number > max_numder:
         max_numder = current_number

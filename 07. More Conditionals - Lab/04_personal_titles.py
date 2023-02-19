@@ -1,9 +1,9 @@
-age_input = int(input('age?' ))
-gender_input = input('gender? ')
+age_input = int(input("age?"))
+gender_input = input("gender? ")
 
-if gender_input == 'm':
+if gender_input == "m":
     if age_input >= 16:
-        print('Mr.')
+        print("Mr.")
     else:
         print("Master")
 else:

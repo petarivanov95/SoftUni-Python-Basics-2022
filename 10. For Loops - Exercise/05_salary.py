@@ -13,7 +13,7 @@ for i in range(1, opent_tabs + 1):
         copy_salary = copy_salary - 50
     if copy_salary <= 0:
         break
-if copy_salary <=0:
+if copy_salary <= 0:
     print("You have lost your salary.")
 else:
     print(copy_salary)

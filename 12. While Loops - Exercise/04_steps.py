@@ -6,7 +6,7 @@ while True:
         if steps_counter >= 10000:
             difference = abs(steps_counter - 10000)
             print("Goal reached! Good job!")
-            print(f'{difference} steps over the goal!')
+            print(f"{difference} steps over the goal!")
             break
     else:
         current_steps = input()
@@ -14,8 +14,8 @@ while True:
         difference = abs(steps_counter - 10000)
         if steps_counter >= 10000:
             print("Goal reached! Good job!")
-            print(f'{difference} steps over the goal!')
+            print(f"{difference} steps over the goal!")
             break
         else:
-            print(f'{difference} more steps to reach goal.')
+            print(f"{difference} more steps to reach goal.")
             break

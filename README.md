@@ -34,3 +34,4 @@ Lecturer - [Mario Zahariev](https://www.linkedin.com/in/mario-zahariev-753a7b202
 
 - [Course page - Programming Basics with Python - April 2022](https://softuni.bg/trainings/3743/programming-basics-with-python-april-2022#)
 - [Official Python documentation](https://docs.python.org/3/)
+i

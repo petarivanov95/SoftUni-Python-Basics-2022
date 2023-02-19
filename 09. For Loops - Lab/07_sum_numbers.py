@@ -8,4 +8,3 @@ for x in range(my_num):
 
 
 print(my_sum)
-    

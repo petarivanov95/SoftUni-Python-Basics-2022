@@ -1,9 +1,9 @@
-time=int(input())
-day= input()
-if 10 <= time <= 18 :
+time = int(input())
+day = input()
+if 10 <= time <= 18:
     if day == "Sunday":
-     print("closed")
+        print("closed")
     else:
-      print("open")
+        print("open")
 else:
     print("closed")

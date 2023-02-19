@@ -11,5 +11,5 @@ for i in range(start_num, end_num + 1):
             even_sum += digit
         else:
             odd_sum += digit
-    if even_sum==odd_sum:
-        print( current_num_str, end=" ")
+    if even_sum == odd_sum:
+        print(current_num_str, end=" ")

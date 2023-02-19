@@ -17,5 +17,5 @@ while line_input != "Finish":
 
     line_input = input()
 
-final_grade=sum_all_grades/count_grades
+final_grade = sum_all_grades / count_grades
 print(f"Student's final assessment is {final_grade:.2f}.")
