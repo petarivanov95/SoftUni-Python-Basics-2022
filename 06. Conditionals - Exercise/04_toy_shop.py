@@ -6,11 +6,11 @@ minions_count = int(input())
 trucks_count = int(input())
 
 total_sum = (
-    puzzle_count * 2.6
-    + dolls_count * 3
-    + bears_count * 4.1
-    + minions_count * 8.2
-    + trucks_count * 2
+    puzzle_count * 2.6 +
+    dolls_count * 3 +
+    bears_count * 4.1 +
+    minions_count * 8.2 +
+    trucks_count * 2
 )
 total_toys = puzzle_count + dolls_count + bears_count + minions_count + trucks_count
 
